@@ -1,0 +1,49 @@
+.imagen1 {
+    width: 400px;
+    height: 300px;
+}
+
+.imagen2 {
+    height: 300px;
+}
+
+.imagen3 {
+    width: 400px;
+    height: 300px;
+   
+}
+
+.imagen4 {
+    width: 145px;
+    height: 128px;
+    float: right;
+}
+
+header {
+    border: 1px dashed black ;
+    margin-bottom: 10px ;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+.seccion1 {
+    background-color: rgb(23, 218, 153);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+.seccion2 {
+    background-color: rgb(23, 192, 192);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+.seccion3 {
+    background-color: rgb(196, 139, 250);
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
